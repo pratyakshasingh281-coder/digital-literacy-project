@@ -1,0 +1,21 @@
+prevention-checklist.txt
+
+Stay Safe Online – Prevention Checklist
+
+- Never share OTP, PIN, or passwords with anyone
+- Do not approve unknown payment requests
+- Always verify the sender before making payments
+- Avoid clicking on suspicious links
+- Use strong and unique passwords
+- Enable two-factor authentication
+- Regularly check bank statements
+- Use trusted and secure apps only
+- Be careful while scanning QR codes
+
+UPI Safety Tips:
+- Remember that receiving money does not require entering a PIN
+- Always double-check before approving any payment request
+
+Report Cybercrime:
+- National Cyber Crime Portal: https://cybercrime.gov.in
+- Helpline Number: 1930

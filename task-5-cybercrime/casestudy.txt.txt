@@ -1,0 +1,12 @@
+casestudy.txt
+Title: UPI Payment Fraud Case Study
+
+UPI payment fraud is one of the most common cybercrimes affecting students and individuals in India. In this type of fraud, scammers trick users into sharing sensitive information or approving fake payment requests.
+
+A typical scenario involves a scammer pretending to be a buyer or a customer service agent. They send a payment request instead of sending money and ask the victim to approve it. In some cases, they share fake links or QR codes that lead to unauthorized transactions.
+
+Students and people who are new to digital payments are often targeted because they may not be fully aware of how these scams work. Once the victim approves the request or shares their OTP, money is deducted from their bank account instantly.
+
+The consequences of such fraud include financial loss, stress, and loss of trust in digital platforms. In many cases, recovering the lost money becomes difficult if not reported immediately.
+
+This case study highlights the importance of being cautious while using digital payment platforms and understanding how online scams operate.
